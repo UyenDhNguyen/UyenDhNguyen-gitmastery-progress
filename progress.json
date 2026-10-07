@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1790176551.046832,
+    "completed_at": 1790176554.331397,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1791212456.109043,
+    "completed_at": 1791212459.084619,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1789957232.57456,
+    "completed_at": 1789957235.45129,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
